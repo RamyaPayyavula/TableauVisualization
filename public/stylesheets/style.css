@@ -1,0 +1,53 @@
+body {
+  padding: 50px;
+  background: url("background.jpg" ) ;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    min-height: 100%;
+}
+
+h1 {
+    font-family: "Serif";
+    color: yellow;
+    font-size: 60px;
+    text-align: center;
+    font-style: italic;
+}
+h2 {
+    font-family: "Serif";
+    color: yellow;
+    font-size: 40px;
+    text-align: center;
+    font-style: italic;
+}
+.div.parent{
+    border:solid black 1px;
+    display:table;
+    padding:5px;
+    width:100%;
+    margin:5px 0; /* you can change/remove margin */
+}
+div.text{
+    vertical-align:middle;
+    display:table-cell;
+    padding-left: 100px;
+    text-align:justify;
+}
+div.parent .img{
+    vertical-align:middle;
+    display:table-cell;
+    padding-right:5px;
+    width:50px; /* you can change width */
+}
+div.img img{
+    width:100%;
+    height:50px; /* you can change height */
+    vertical-align:middle;
+}
+.wrapper {
+    padding:10px;
+    background:#bada55;
+    border:1px solid;
+    word-break:break-all;
+    display:inline-block;
+    margin:25px
+}

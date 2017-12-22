@@ -1,2 +1,2 @@
 # Visualization Webpage 
-We used Tableau to display the interactive Visualizations of the Data set.
+We used Html,Css,Javascript and NodeJs.And Tableau to display the interactive Visualizations of the Data set.
